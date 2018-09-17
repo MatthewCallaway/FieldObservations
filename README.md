@@ -1,1 +1,1 @@
-# JavaFXPrograms
+# Grade Calculator
